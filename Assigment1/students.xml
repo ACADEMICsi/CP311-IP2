@@ -1,0 +1,20 @@
+<? xml version="1.0" encoding="UTF-8"?> 
+
+<!DOCTYPE students [ 
+
+     <!ELEMENT students (student+)>
+     <!ELEMENT student ( firstName,lastName,gender, programme,yearOfStudy,email,phone,courses)>
+     <!ATTLIST student regNo CDATA #REQUIRED>
+
+     <!ELEMENT firstName (#PCDATA)>
+     <!ELEMENT lastName (#PCDATA)>
+     <!ELEMENT gender (#PCDATA)>
+     <!ELEMENT programme (#PCDATA)>
+     <!ELEMENT yearOfStudy (#PCDATA)>
+     <!ELEMENT email (#PCDATA)>
+     <!ELEMENT phone (#PCDATA)>
+
+     <!ELEMENT courses (course, course, course+)>
+     <!ELEMENT course (#PCDATA)>
+
+     ]>
