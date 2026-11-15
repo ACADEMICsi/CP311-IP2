@@ -36,6 +36,141 @@
             <course>Python Programming</course>
             <course>Computer Graphics</course>
         </courses>
+    </student> 
+
+    <student regNo="UDOM002">
+        <firstName>Amina</firstName>
+        <lastName>Hassan</lastName>
+        <gender>Female</gender>
+        <programme>Computer Science</programme>
+        <yearOfStudy>2</yearOfStudy>
+        <email>amina@example.com</email>
+        <phone>0712345679</phone>
+        <courses>
+            <course>Database Systems</course>
+            <course>Object Oriented Programming</course>
+            <course>Computer Networks</course>
+        </courses>
+    </student>
+
+    <student regNo="UDOM003">
+        <firstName>Daniel</firstName>
+        <lastName>Joseph</lastName>
+        <gender>Male</gender>
+        <programme>Information Technology</programme>
+        <yearOfStudy>1</yearOfStudy>
+        <email>daniel@example.com</email>
+        <phone>0712345680</phone>
+        <courses>
+            <course>Introduction to Programming</course>
+            <course>Computer Applications</course>
+            <course>Mathematics for Computing</course>
+        </courses>
+    </student>
+
+    <student regNo="UDOM004">
+        <firstName>Neema</firstName>
+        <lastName>Peter</lastName>
+        <gender>Female</gender>
+        <programme>Software Engineering</programme>
+        <yearOfStudy>2</yearOfStudy>
+        <email>neema@example.com</email>
+        <phone>0712345681</phone>
+        <courses>
+            <course>Software Design</course>
+            <course>Web Development</course>
+            <course>Data Structures</course>
+        </courses>
+    </student>
+
+    <student regNo="UDOM005">
+        <firstName>Michael</firstName>
+        <lastName>George</lastName>
+        <gender>Male</gender>
+        <programme>Computer Science</programme>
+        <yearOfStudy>3</yearOfStudy>
+        <email>michael@example.com</email>
+        <phone>0712345682</phone>
+        <courses>
+            <course>Artificial Intelligence</course>
+            <course>Operating Systems</course>
+            <course>Computer Graphics</course>
+        </courses>
+    </student>
+
+    <student regNo="UDOM006">
+        <firstName>Grace</firstName>
+        <lastName>John</lastName>
+        <gender>Female</gender>
+        <programme>Information Technology</programme>
+        <yearOfStudy>2</yearOfStudy>
+        <email>grace@example.com</email>
+        <phone>0712345683</phone>
+        <courses>
+            <course>Information Systems</course>
+            <course>Database Management</course>
+            <course>Network Administration</course>
+        </courses>
+    </student>
+
+    <student regNo="UDOM007">
+        <firstName>Emmanuel</firstName>
+        <lastName>David</lastName>
+        <gender>Male</gender>
+        <programme>Software Engineering</programme>
+        <yearOfStudy>1</yearOfStudy>
+        <email>emmanuel@example.com</email>
+        <phone>0712345684</phone>
+        <courses>
+            <course>Programming Fundamentals</course>
+            <course>Discrete Mathematics</course>
+            <course>Introduction to Computing</course>
+        </courses>
+    </student>
+
+    <student regNo="UDOM008">
+        <firstName>Rehema</firstName>
+        <lastName>Simon</lastName>
+        <gender>Female</gender>
+        <programme>Computer Science</programme>
+        <yearOfStudy>4</yearOfStudy>
+        <email>rehema@example.com</email>
+        <phone>0712345685</phone>
+        <courses>
+            <course>Machine Learning</course>
+            <course>Computer Security</course>
+            <course>Research Methods</course>
+        </courses>
+    </student>
+
+    <student regNo="UDOM009">
+        <firstName>Patrick</firstName>
+        <lastName>Francis</lastName>
+        <gender>Male</gender>
+        <programme>Information Technology</programme>
+        <yearOfStudy>3</yearOfStudy>
+        <email>patrick@example.com</email>
+        <phone>0712345686</phone>
+        <courses>
+            <course>Cloud Computing</course>
+            <course>Web Technologies</course>
+            <course>Cyber Security</course>
+        </courses>
+    </student>
+
+    <student regNo="UDOM010">
+        <firstName>Elizabeth</firstName>
+        <lastName>Mary</lastName>
+        <gender>Female</gender>
+        <programme>Software Engineering</programme>
+        <yearOfStudy>4</yearOfStudy>
+        <email>elizabeth@example.com</email>
+        <phone>0712345687</phone>
+        <courses>
+            <course>Software Testing</course>
+            <course>Software Project Management</course>
+            <course>Mobile Application Development</course>
+        </courses>
     </student>
 
 </students>
