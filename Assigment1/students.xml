@@ -17,4 +17,25 @@
      <!ELEMENT courses (course, course, course+)>
      <!ELEMENT course (#PCDATA)>
 
-     ]>
+     ]> 
+
+
+     <students>
+
+    <student regNo="UDOM001">
+        <firstName>Joshua</firstName>
+        <lastName>Mwakipesile</lastName>
+        <gender>Male</gender>
+        <programme>Software Engineering</programme>
+        <yearOfStudy>3</yearOfStudy>
+        <email>joshua@example.com</email>
+        <phone>0712345678</phone>
+
+        <courses>
+            <course>PHP Programming</course>
+            <course>Python Programming</course>
+            <course>Computer Graphics</course>
+        </courses>
+    </student>
+
+</students>
