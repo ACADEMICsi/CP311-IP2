@@ -1,4 +1,4 @@
-# CP311-IP2
+# CP311-IP2 Assigment 1
 
 A PHP-based XML assignment for Internet Programming II. This project demonstrates how to define an XML document type, store structured student data, validate it against a DTD, and display the information in a browser using PHP.
 
